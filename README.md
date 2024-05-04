@@ -12,7 +12,6 @@
 **Research Intern @ Performance Analysis of Computer Systems Lab (_January 2024 - Present_)**
 - Conducted detailed CPU and GPU metrics profiling at millisecond interval using pynvml in training and inference workloads using power monitors. Set up and built an automated distributed-inference energy profiling system using DeepSpeed in a 2 GPU workload for configuration like tensor-parallelism.
 - Worked on estimating the energy of a ML model by parsing the PyTorch JIT computational graph, breaking it down to ML and non-ML level primitives and leveraging features like Flops, mem-bytes, and power consumption of a primitive.
-- Implemented GAMMA, an attention based graph convolution network and achieved a 4 times enhancement in anomaly detection and 46% improvement in bottleneck-localization in microservices compared to current state of the art models.
 - Technologies: Python, PyTorch, DeepSpeed, pynvml, LLM
 
 **Research Intern @ Roblox | Performance Analysis of Computer Systems Lab(_January 2023 - September 2023_)**
