@@ -3,8 +3,8 @@
 #### Technical Skills: C++, Python, Java, Go, C, HTML, CSS, JavaScript, TypeScript, GNU Octave
 
 ## Education							       		
-- M.S., CS	| Stony Brook University (_May 2024_)	 			        		
-- B.Tech, CSE | Institute of Engineering and Management (_August 2022_)
+- M.S., Computer Science	| Stony Brook University (_May 2024_)	 			        		
+- B.Tech, Computer Science | Institute of Engineering and Management (_August 2022_)
 
 ## Work Experience
 **Research Intern @ Roblox (_June 2022 - Present_)**
