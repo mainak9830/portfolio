@@ -1,6 +1,6 @@
 # Software Engineer | ML Enthusiast 
 
-#### Technical Skills:  C++, Python, Java, Go, C, HTML, CSS, JavaScript, TypeScript, GNU Octave
+#### Technical Skills:  <li> C++, Python, Java, Go, C, HTML, CSS, JavaScript, TypeScript, GNU Octave</li>
 
 ## Education							       		
 - M.S., Computer Science	| Stony Brook University (_May 2024_)	 			        		
