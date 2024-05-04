@@ -1,6 +1,8 @@
 # Software Engineer | ML Enthusiast 
 
-#### Technical Skills: C++, Python, Java, Go, C, HTML, CSS, JavaScript, TypeScript, GNU Octave
+#### Languages: C++, Python, Java, Go, C, HTML, CSS, JavaScript, TypeScript, GNU Octave
+#### Frameworks/Runtime Environment: Flask, ReactJs, ExpressJs, NodeJs, Redux, Tensorflow, Keras, Pytorch
+#### Databases/Others:  MySQL, PostgreSQL, MongoDB, GCP, AWS, Docker, Linux
 
 ## Education							       		
 - M.S., Computer Science	| Stony Brook University (_May 2024_)	 			        		
@@ -21,13 +23,29 @@
 - Technologies: Android, Java, Python, PyTorch, Deep Learning
 
 ## Projects
-### FairGPT: Examine the Intersectional Bias in GPT-3.5
+### FairGPT: Examine the Intersectional Bias in GPT-3.5 | Python, PySpark, PyTorch
 [GitHub Link](https://github.com/mainak9830/FairGPT)
 
 - Generated 80,000 stories utilizing the extracted names on GCP VM instances using openAI API and conducted chi-square and t-tests to test for Gender Bias, Racial Bias and Intersectional Bias.
 - Trained a bidirectional LSTM model to predict gender from US names, achieving a 93.7% testing accuracy.
 - Preprocessed 22 GB of Wikipedia data on GCP Dataproc cluster and employed a pre-trained BERT model for Named Entity Recognition (NER) to extract names from text articles.
 
+### BusTubDB | C++, Database
+[GitHub Link](https://github.com/mainak9830/bustub-20221128-2022fall-Database)
+
+- Built thread-safe Page-Table, Buffer Pool Manager and added B+ Tree Index, concurrent-index operator support.
+- Developed query-execution for concurrent transactions utilizing 2-phase Locking and graph-based deadlock detection.
+
+### Fault Tolerant Key-Value Store | C++, Distributed Systems
+
+- Developed a sharded and replicated fault-tolerance key-value store based on raft protocol.
+-  Improved fault-tolerance and efficiency by implementing log persistence and snapshotting. Implemented cross-shard transactions with optimistic concurrency control (OCC).
+
+### TFS: Unix File System | C++, Operating Systems
+[GitHub Link](https://github.com/mainak9830/Operating-Systems-Project/tree/main/lab3)
+
+- Implemented a Unix-like file system providing interfaces for creating, deleting, reading, writing, and listing files using
+block partition and inode structure.
 
 
 
