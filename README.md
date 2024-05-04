@@ -47,6 +47,17 @@
 - Implemented a Unix-like file system providing interfaces for creating, deleting, reading, writing, and listing files using
 block partition and inode structure.
 
+### Life Expectancy Analysis Dashboard | HTML, CSS, JavaScript, D3.js, Python, Flask
+- Developed a dashboard supporting interactive Geo maps, histograms, scatter plots, and stacked area charts for data exploration and analysis. Added interactions like filtering, brushing, linking and hovering to further analyze the data.
+
+### Sociopedia | React.js, Node.js, Express.js, Bcryptjs, Axios, Jsonwebtoken, Materialize, Heroku
+[GitHub Link](https://github.com/mainak9830/Sociopedia-Project)
+- Built and deployed a web application in which users can post images, like other users’ posts, comment on their posts, follow other users, view other users’ profiles, delete posts.
+
+### Student Resource Management | Java, Java Swing
+[GitHub Link](https://github.com/mainak9830/Xsociety)
+- Developed a java GUI application for economically and swiftly sharing books, notes and equipments amongst students.
+- Collaborated with other team members to determine the best design specifications and details. Followed MVC design pattern and Iterative Waterfall model for the project.
 
 
 ## Publications
